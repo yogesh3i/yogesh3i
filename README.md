@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Welcome to My GitHub Repository! 👋
+### Hello, and welcome to my corner of the coding universe! 🌟
+
 <!--
 **yogesh3i/yogesh3i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
